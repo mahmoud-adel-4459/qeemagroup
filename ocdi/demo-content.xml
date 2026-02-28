@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+	<title>Qeema Group Demo</title>
+	<link>https://qeema-group.com</link>
+	<description>محتوى تجريبي</description>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://qeema-group.com</wp:base_site_url>
+	<wp:base_blog_url>https://qeema-group.com</wp:base_blog_url>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>admin</wp:author_login><wp:author_email>admin@example.com</wp:author_email><wp:author_display_name><![CDATA[مدير الموقع]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<item>
+		<title>تواصل معنا</title>
+		<link>https://qeema-group.com/contact/</link>
+		<pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>نحن هنا لمساعدتك. تواصل معنا عبر النموذج أو الهاتف.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date>2024-01-01 12:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-01-01 12:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-01-01 12:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-01-01 12:00:00</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>contact</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page-contact.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>اطلب عرض سعر</title>
+		<link>https://qeema-group.com/quotation/</link>
+		<pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?page_id=3</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>أكمل النموذج وسنتواصل معك خلال 24 ساعة.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3</wp:post_id>
+		<wp:post_date>2024-01-01 12:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-01-01 12:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-01-01 12:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-01-01 12:00:00</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>quotation</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page-quotation.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>من نحن</title>
+		<link>https://qeema-group.com/about/</link>
+		<pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?page_id=5</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>صفحة من نحن - شريكك الهندسي الموثوق.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date>2024-01-01 12:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-01-01 12:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-01-01 12:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-01-01 12:00:00</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>about</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page-about.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>المدونة</title>
+		<link>https://qeema-group.com/blog/</link>
+		<pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?page_id=4</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>أحدث المقالات والأخبار.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date>2024-01-01 12:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-01-01 12:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-01-01 12:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-01-01 12:00:00</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>blog</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+	</item>
+	<item>
+		<title>الرئيسية</title>
+		<link>https://qeema-group.com/home/</link>
+		<pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?page_id=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>الصفحة الرئيسية - يعرض الثيم front-page.php تلقائياً عند تعيينها كصفحة رئيسية.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date>2024-01-01 12:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-01-01 12:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-01-01 12:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-01-01 12:00:00</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>home</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+	</item>
+	<item>
+		<title>شكراً</title>
+		<link>https://qeema-group.com/thank-you/</link>
+		<pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?page_id=6</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>شكراً لتواصلكم. تم استلام طلبكم وسنتواصل معكم قريباً.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date>2024-01-01 12:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-01-01 12:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-01-01 12:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-01-01 12:00:00</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>thank-you</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page-thank-you.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>انضم إلى فريقنا - التوظيف</title>
+		<link>https://qeema-group.com/careers/</link>
+		<pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?page_id=7</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>صفحة التوظيف - انضم إلى فريق قيمة جروب.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date>2024-01-01 12:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-01-01 12:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-01-01 12:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-01-01 12:00:00</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>careers</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page-careers.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>تسجيل الموردين</title>
+		<link>https://qeema-group.com/vendors/</link>
+		<pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?page_id=8</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>سجّل شركتك في قاعدة بيانات موردي قيمة جروب.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date>2024-01-01 12:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-01-01 12:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-01-01 12:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-01-01 12:00:00</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>vendors</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page-vendors.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>سياسة الخصوصية — قيمة جروب</title>
+		<link>https://qeema-group.com/privacy/</link>
+		<pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?page_id=9</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>المحتوى الكامل لسياسة الخصوصية (من نحن، نطاق التطبيق، البيانات المجمعة، الاستخدام، المشاركة، Cookies، الاحتفاظ، الأمان، حقوقك، إلخ.) يُعرض تلقائياً من قالب الصفحة (page-privacy.php).</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9</wp:post_id>
+		<wp:post_date>2024-01-01 12:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-01-01 12:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-01-01 12:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-01-01 12:00:00</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>privacy</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page-privacy.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>الشروط والأحكام</title>
+		<link>https://qeema-group.com/terms/</link>
+		<pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?page_id=16</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>صفحة الشروط والأحكام — يتم عرض المحتوى الكامل من القالب (page-terms.php) ويشمل: القبول بالشروط، الخدمات، استخدام الموقع، الملكية الفكرية، عروض الأسعار والعقود، المسؤولية والضمان، الروابط الخارجية، التعديلات، القانون الحاكم، والتواصل.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[شروط استخدام موقع وخدمات قيمة جروب]]></excerpt:encoded>
+		<wp:post_id>16</wp:post_id>
+		<wp:post_date>2024-01-01 12:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-01-01 12:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-01-01 12:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-01-01 12:00:00</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>terms</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page-terms.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+
+	<!-- مشاريع تجريبية - من رؤية الهندسة -->
+	<item>
+		<title>برج سكني متكامل - الرياض</title>
+		<link>https://qeema-group.com/project/tower-riyadh/</link>
+		<pubDate>Mon, 15 Jan 2024 10:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?post_type=project&#038;p=10</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>مشروع برج سكني متكامل يشمل التصميم المعماري والإنشائي، أنظمة MEP، والتصميم الداخلي. تم التنفيذ بالكامل وفق معايير البناء السعودية ومع توفير في التكلفة يقارب 22%.</p><p>يشمل المشروع 120 وحدة سكنية ومواقف تحت الأرض ومرافق مشتركة. تم استخدام نماذج BIM للتنسيق بين التخصصات وتقليل التعارضات.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[برج سكني متكامل في الرياض - تصميم معماري وإنشائي و MEP]]></excerpt:encoded>
+		<wp:post_id>10</wp:post_id>
+		<wp:post_date>2024-01-15 10:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-01-15 10:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-01-15 10:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-01-15 10:00:00</wp:post_modified_gmt>
+		<wp:post_type>project</wp:post_type>
+		<wp:post_name>tower-riyadh</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:postmeta><wp:meta_key><![CDATA[location]]></wp:meta_key><wp:meta_value><![CDATA[الرياض، المملكة العربية السعودية]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[category]]></wp:meta_key><wp:meta_value><![CDATA[سكني]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title>مجمع تجاري - جدة</title>
+		<link>https://qeema-group.com/project/mall-jeddah/</link>
+		<pubDate>Tue, 20 Feb 2024 10:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?post_type=project&#038;p=11</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>مجمع تجاري متعدد الاستخدامات يشمل تصميم الواجهات، التكييف المركزي، الأنظمة الكهربائية والميكانيكية، ومسح الموقع. تم تسليم المشروع قبل الموعد المحدد.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[مجمع تجاري في جدة - حلول هندسية متكاملة]]></excerpt:encoded>
+		<wp:post_id>11</wp:post_id>
+		<wp:post_date>2024-02-20 10:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-02-20 10:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-02-20 10:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-02-20 10:00:00</wp:post_modified_gmt>
+		<wp:post_type>project</wp:post_type>
+		<wp:post_name>mall-jeddah</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:postmeta><wp:meta_key><![CDATA[location]]></wp:meta_key><wp:meta_value><![CDATA[جدة، المملكة العربية السعودية]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[category]]></wp:meta_key><wp:meta_value><![CDATA[تجاري]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title>فيلا فاخرة - الدمام</title>
+		<link>https://qeema-group.com/project/villa-dammam/</link>
+		<pubDate>Wed, 10 Mar 2024 10:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?post_type=project&#038;p=12</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>تصميم وتنفيذ فيلا فاخرة تشمل التصميم الداخلي والتشطيبات، الإنارة، التكييف، والحدائق. المشروع يجمع بين الجمال والكفاءة الطاقة.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[فيلا فاخرة في الدمام - تصميم داخلي وتشطيبات]]></excerpt:encoded>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date>2024-03-10 10:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-03-10 10:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-03-10 10:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-03-10 10:00:00</wp:post_modified_gmt>
+		<wp:post_type>project</wp:post_type>
+		<wp:post_name>villa-dammam</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:postmeta><wp:meta_key><![CDATA[location]]></wp:meta_key><wp:meta_value><![CDATA[الدمام، المملكة العربية السعودية]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[category]]></wp:meta_key><wp:meta_value><![CDATA[سكني]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title>مبنى إداري - الخبر</title>
+		<link>https://qeema-group.com/project/office-khobar/</link>
+		<pubDate>Thu, 05 Apr 2024 10:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?post_type=project&#038;p=13</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>مبنى إداري متعدد الطوابق يشمل التصميم المعماري والإنشائي، أنظمة MEP الكاملة، ومسح وتخطيط الموقع. تم تطبيق معايير الاستدامة وتحقيق تصنيف عالي في كفاءة الطاقة.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[مبنى إداري في الخبر - استدامة وكفاءة طاقة]]></excerpt:encoded>
+		<wp:post_id>13</wp:post_id>
+		<wp:post_date>2024-04-05 10:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-04-05 10:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-04-05 10:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-04-05 10:00:00</wp:post_modified_gmt>
+		<wp:post_type>project</wp:post_type>
+		<wp:post_name>office-khobar</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:postmeta><wp:meta_key><![CDATA[location]]></wp:meta_key><wp:meta_value><![CDATA[الخبر، المملكة العربية السعودية]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[category]]></wp:meta_key><wp:meta_value><![CDATA[إداري]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title>مستشفى متخصص - المدينة المنورة</title>
+		<link>https://qeema-group.com/project/hospital-madinah/</link>
+		<pubDate>Fri, 20 May 2024 10:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?post_type=project&#038;p=14</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>مشروع مستشفى متخصص يشمل جميع التخصصات الهندسية: التصميم المعماري والإنشائي، أنظمة MEP الطبية، المسح الهندسي، والتنسيق مع المتطلبات الصحية. تم التسليم ضمن الميزانية والجدول الزمني.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[مستشفى متخصص في المدينة المنورة - هندسة متكاملة]]></excerpt:encoded>
+		<wp:post_id>14</wp:post_id>
+		<wp:post_date>2024-05-20 10:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-05-20 10:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-05-20 10:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-05-20 10:00:00</wp:post_modified_gmt>
+		<wp:post_type>project</wp:post_type>
+		<wp:post_name>hospital-madinah</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:postmeta><wp:meta_key><![CDATA[location]]></wp:meta_key><wp:meta_value><![CDATA[المدينة المنورة، المملكة العربية السعودية]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[category]]></wp:meta_key><wp:meta_value><![CDATA[صحي]]></wp:meta_value></wp:postmeta>
+	</item>
+
+	<!-- مقالات المدونة -->
+	<item>
+		<title>لماذا التصميم المتكامل يوفر عليك التكلفة والوقت؟</title>
+		<link>https://qeema-group.com/2024/01/10/integrated-design-benefits/</link>
+		<pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?p=20</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>عندما تجمع التصميم المعماري والإنشائي مع أنظمة MEP والمسح تحت إدارة واحدة، تقل التعارضات وتقل إعادة العمل. نستعرض في هذا المقال كيف يمكن خفض التكلفة حتى 25% وتسريع التسليم.</p><p>التكامل يعني تنسيقاً مبكراً بين كل التخصصات عبر نماذج BIM، مما يقلل التعديلات في مرحلة التنفيذ ويحافظ على الجدول الزمني.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[كيف يوفر التصميم الهندسي المتكامل التكلفة والوقت في مشاريعك؟]]></excerpt:encoded>
+		<wp:post_id>20</wp:post_id>
+		<wp:post_date>2024-01-10 12:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-01-10 12:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-01-10 12:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-01-10 12:00:00</wp:post_modified_gmt>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_name>integrated-design-benefits</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+	</item>
+	<item>
+		<title>معايير البناء السعودية: ما الذي تحتاج معرفته لمشروعك؟</title>
+		<link>https://qeema-group.com/2024/02/01/saudi-building-standards/</link>
+		<pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?p=21</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>نوضح أهم معايير ولوائح البناء في المملكة وكيفية تطبيقها في التصميم المعماري والإنشائي وأنظمة MEP لضمان الموافقات وتسليم المشروع دون تأخير.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[أهم معايير البناء السعودية وتطبيقها في مشاريعك الهندسية]]></excerpt:encoded>
+		<wp:post_id>21</wp:post_id>
+		<wp:post_date>2024-02-01 12:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-02-01 12:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-02-01 12:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-02-01 12:00:00</wp:post_modified_gmt>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_name>saudi-building-standards</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+	</item>
+	<item>
+		<title>BIM في المشاريع الهندسية: من التصميم إلى التسليم</title>
+		<link>https://qeema-group.com/2024/03/15/bim-engineering-projects/</link>
+		<pubDate>Fri, 15 Mar 2024 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?p=22</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>نستعرض كيف نستخدم نماذج BIM لتنسيق التصميم المعماري والإنشائي مع أنظمة MEP والمسح، مما يقلل الأخطاء ويحسن التواصل مع العميل والمقاول.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[استخدام BIM في المشاريع الهندسية المتكاملة]]></excerpt:encoded>
+		<wp:post_id>22</wp:post_id>
+		<wp:post_date>2024-03-15 12:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-03-15 12:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-03-15 12:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-03-15 12:00:00</wp:post_modified_gmt>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_name>bim-engineering-projects</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+	</item>
+	<item>
+		<title>أنظمة MEP: نصائح لتصميم كفء ومتوافق مع التصميم المعماري</title>
+		<link>https://qeema-group.com/2024/04/10/mep-design-tips/</link>
+		<pubDate>Wed, 10 Apr 2024 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?p=23</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>التكامل المبكر بين التصميم المعماري وأنظمة التكييف والكهرباء والميكانيك يمنع التعارضات ويوفر مساحة وطاقة. نقدم نصائح عملية من تجاربنا في مشاريع سكنية وتجارية.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[نصائح لتصميم أنظمة MEP بكفاءة وتوافق مع العمارة]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date>2024-04-10 12:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-04-10 12:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-04-10 12:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-04-10 12:00:00</wp:post_modified_gmt>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_name>mep-design-tips</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+	</item>
+	<item>
+		<title>هندسة المساحة ودورها في تسريع بدء المشاريع</title>
+		<link>https://qeema-group.com/2024/05/01/surveying-role-projects/</link>
+		<pubDate>Mon, 01 May 2024 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?p=24</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>المسح الدقيق للموقع هو أساس أي تصميم معماري أو إنشائي ناجح. نستعرض تقنيات المسح الحديثة وكيف نسلم بيانات دقيقة توفر وقت التصميم وتقلل الأخطاء في الميدان.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[دور هندسة المساحة في تسريع ودقة المشاريع الهندسية]]></excerpt:encoded>
+		<wp:post_id>24</wp:post_id>
+		<wp:post_date>2024-05-01 12:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-05-01 12:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-05-01 12:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-05-01 12:00:00</wp:post_modified_gmt>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_name>surveying-role-projects</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+	</item>
+
+	<!-- خدمات تجريبية - من رؤية الهندسة (qeema-group.vercel.app) -->
+	<item>
+		<title>التصميم الداخلي والتشطيبات</title>
+		<link>https://qeema-group.com/service/interior-design/</link>
+		<pubDate>Mon, 01 Jan 2024 09:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?post_type=service&#038;p=30</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>نقدم خدمات التصميم الداخلي والتشطيبات لمشاريع سكنية وتجارية وضيافية. يشمل ذلك اختيار المواد والألوان والإضاءة والأثاث والتنسيق مع التصميم المعماري وأنظمة MEP لضمان تناسق المشروع وتقليل التعديلات لاحقاً.</p><h2>ما الذي نقدمه؟</h2><p>تصميم داخلي كامل، لوحات ألوان ومواد، إشراف على التشطيبات، وتنسيق مع المقاولين لتحقيق النتيجة المتوقعة ضمن الميزانية والجدول الزمني.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[تصميم داخلي وتشطيبات متكاملة لمشاريعك السكنية والتجارية]]></excerpt:encoded>
+		<wp:post_id>30</wp:post_id>
+		<wp:post_date>2024-01-01 09:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-01-01 09:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-01-01 09:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-01-01 09:00:00</wp:post_modified_gmt>
+		<wp:post_type>service</wp:post_type>
+		<wp:post_name>interior-design</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:postmeta><wp:meta_key><![CDATA[headline]]></wp:meta_key><wp:meta_value><![CDATA[بناء رؤيتك من الداخل]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[icon_name]]></wp:meta_key><wp:meta_value><![CDATA[Palette]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[short_description]]></wp:meta_key><wp:meta_value><![CDATA[تصميم داخلي وتشطيبات متكاملة يجمع بين الجمال والوظيفة والكفاءة، مع تنسيق كامل مع التصميم المعماري وأنظمة MEP.]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title>التصميم المعماري والإنشائي</title>
+		<link>https://qeema-group.com/service/architectural-design/</link>
+		<pubDate>Mon, 01 Jan 2024 09:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?post_type=service&#038;p=31</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>نقدم التصميم المعماري والإنشائي للمباني السكنية والتجارية والإدارية. يشمل ذلك المخططات المعمارية، التصميم الإنشائي، وثائق التنفيذ، والتنسيق مع أنظمة MEP والمسح لضمان مشروع متكامل دون تعارضات.</p><h2>لماذا التصميم المتكامل؟</h2><p>عندما يكون التصميم المعماري والإنشائي تحت سقف واحد مع MEP والمسح، تقل التعارضات وتقل إعادة العمل وتوفّر التكلفة والوقت.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[تصميم معماري وإنشائي متكامل مع MEP والمسح]]></excerpt:encoded>
+		<wp:post_id>31</wp:post_id>
+		<wp:post_date>2024-01-01 09:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-01-01 09:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-01-01 09:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-01-01 09:00:00</wp:post_modified_gmt>
+		<wp:post_type>service</wp:post_type>
+		<wp:post_name>architectural-design</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:postmeta><wp:meta_key><![CDATA[headline]]></wp:meta_key><wp:meta_value><![CDATA[من الفكرة إلى المخططات الجاهزة للتنفيذ]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[icon_name]]></wp:meta_key><wp:meta_value><![CDATA[Building2]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[short_description]]></wp:meta_key><wp:meta_value><![CDATA[تصميم معماري وإنشائي يلبّي المعايير السعودية والدولية، مع تنسيق مع MEP والمسح لتسليم مشروع خالٍ من التعارضات.]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title>إليكتروميكانيكال (MEP)</title>
+		<link>https://qeema-group.com/service/mep/</link>
+		<pubDate>Mon, 01 Jan 2024 09:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?post_type=service&#038;p=32</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>MEP هو "الجهاز العصبي" للمبنى. نُصمِّم وننسِّق الأنظمة الميكانيكية والكهربائية والصحية من اليوم الأول، ونستخدم BIM والتنسيق الرقمي لنمنع التعارضات ونخفض تكاليف التشغيل ونضمن تجربة مريحة وآمنة للمستخدمين.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[ذكاء مبناك… راحة وأمان وكفاءة تُقاس. تصميم MEP متكامل مع BIM وكشف تعارضات.]]></excerpt:encoded>
+		<wp:post_id>32</wp:post_id>
+		<wp:post_date>2024-01-01 09:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-01-01 09:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-01-01 09:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-01-01 09:00:00</wp:post_modified_gmt>
+		<wp:post_type>service</wp:post_type>
+		<wp:post_name>mep</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:postmeta><wp:meta_key><![CDATA[headline]]></wp:meta_key><wp:meta_value><![CDATA[ذكاء مبناك… راحة وأمان وكفاءة تُقاس]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[icon_name]]></wp:meta_key><wp:meta_value><![CDATA[Zap]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[short_description]]></wp:meta_key><wp:meta_value><![CDATA[MEP هو "الجهاز العصبي" للمبنى. نُصمِّم وننسِّق الأنظمة الميكانيكية والكهربائية والصحية من اليوم الأول، ونستخدم BIM والتنسيق الرقمي لنمنع التعارضات ونخفض تكاليف التشغيل ونضمن تجربة مريحة وآمنة للمستخدمين.]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title>هندسة المساحة</title>
+		<link>https://qeema-group.com/service/surveying/</link>
+		<pubDate>Mon, 01 Jan 2024 09:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://qeema-group.com/?post_type=service&#038;p=33</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>المساحة ليست "خدمة مساندة"؛ هي أساس نجاح التصميم والتنفيذ والتراخيص. بيانات مساحية غير دقيقة كانت وراء 14% من إعادة العمل التي كان يمكن تجنّبها عالميًا (بتكلفة تقديرية 1.8 تريليون دولار في 2020). نحن نمنحك اليقين منذ اليوم الأول عبر فريق معتمد وتقنيات GNSS/LiDAR/Drone وعمليات ضبط جودة صارمة.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[الدقة التي يُبنى عليها كل قرار. رفع طبوغرافي، توقيع محاور، As-Built، GIS.]]></excerpt:encoded>
+		<wp:post_id>33</wp:post_id>
+		<wp:post_date>2024-01-01 09:00:00</wp:post_date>
+		<wp:post_date_gmt>2024-01-01 09:00:00</wp:post_date_gmt>
+		<wp:post_modified>2024-01-01 09:00:00</wp:post_modified>
+		<wp:post_modified_gmt>2024-01-01 09:00:00</wp:post_modified_gmt>
+		<wp:post_type>service</wp:post_type>
+		<wp:post_name>surveying</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:postmeta><wp:meta_key><![CDATA[headline]]></wp:meta_key><wp:meta_value><![CDATA[الدقة التي يُبنى عليها كل قرار]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[icon_name]]></wp:meta_key><wp:meta_value><![CDATA[MapPin]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key><![CDATA[short_description]]></wp:meta_key><wp:meta_value><![CDATA[المساحة ليست "خدمة مساندة"؛ هي أساس نجاح التصميم والتنفيذ والتراخيص. نمنحك اليقين منذ اليوم الأول عبر فريق معتمد وتقنيات GNSS/LiDAR/Drone وعمليات ضبط جودة صارمة.]]></wp:meta_value></wp:postmeta>
+	</item>
+</channel>
+</rss>
